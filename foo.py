@@ -11,3 +11,6 @@ for i in range(10):
 print("fix-B")
 
 print("feature-C")
+
+print(".Pro git develop")
+
